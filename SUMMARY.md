@@ -12,5 +12,3 @@ title: Содержание
       -  [Статусы заявок](./flow-prosmotr-dannykh/dokumenty-i-informaciya-po-zayavke/statusy-zayavok)
 
 -  [Odin. Просмотр данных](./odin-prosmotr-dannykh)
-
-
