@@ -40,22 +40,4 @@ title: Odin. Просмотр данных
 
 [/tab]
 
-[tab]
-
-
-
-[/tab]
-
-[tab]
-
-
-
-[/tab]
-
-[tab]
-
-
-
-[/tab]
-
 [/tabs]
